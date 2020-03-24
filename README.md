@@ -1,1 +1,2 @@
-GitHub pages
+Presonal Blog
+https://kayanouriko.cc
