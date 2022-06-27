@@ -1,7 +1,7 @@
 ---
 title: 我的博客新样式
 time: '2022-06-15'
-update: '2022-06-15'
+update: '2022-06-17'
 description: '我的博客样式又又又更新啦!! _(:з'
 tags: 'Web'
 hidden: false
@@ -70,6 +70,7 @@ hidden: false
 "dependencies": {
     "@headlessui/react": "^1.6.4",
     "axios": "^0.27.2",
+    "front-matter": "^4.0.2",
     "html-react-parser": "^1.4.14",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -84,7 +85,7 @@ hidden: false
     "@types/showdown": "^2.0.0",
     "@vitejs/plugin-react": "^1.3.0",
     "autoprefixer": "^10.4.7",
-    "front-matter": "^4.0.2",
+    "cssnano": "^5.1.11",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.0.24",
     "ts-node": "^10.8.1",
